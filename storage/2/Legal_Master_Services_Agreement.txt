@@ -1,0 +1,26 @@
+MASTER SERVICES AGREEMENT AND NON-DISCLOSURE CONTRACT
+
+This Agreement ("Agreement") is entered into between the parties for the purpose of establishing contractual obligations, confidentiality clauses, and liability provisions.
+
+1. CONFIDENTIALITY AND NON-DISCLOSURE
+Each party agrees to maintain confidentiality of all proprietary information disclosed under this Agreement. Any breach of confidentiality clause may result in litigation and damages as determined by a court of competent jurisdiction.
+
+2. INTELLECTUAL PROPERTY RIGHTS
+All trademark, copyright, and patent rights arising from work performed under this contract shall remain the exclusive property of the disclosing party. Any infringement of intellectual property rights will be subject to arbitration proceedings.
+
+3. LIABILITY AND INDEMNIFICATION
+Neither party shall be liable for indirect damages arising from breach of this Agreement, except in cases of gross negligence. The indemnifying party agrees to defend against any lawsuit, settlement, or injunction sought by third parties.
+
+4. EMPLOYMENT AND LABOR COMPLIANCE
+Both parties shall comply with applicable employment law, including provisions related to wrongful dismissal, severance, and non-compete clauses. Any disputes regarding labor union collective bargaining shall be resolved through the grievance procedures outlined in Schedule A.
+
+5. DISPUTE RESOLUTION
+Any dispute, controversy, or claim arising out of this Agreement shall first be submitted to mediation. If unresolved, the matter shall proceed to binding arbitration under the rules of the American Arbitration Association. The plaintiff and defendant shall bear their own attorney's fees unless otherwise ordered.
+
+6. REGULATORY COMPLIANCE
+This Agreement shall be governed by and construed in accordance with applicable statute and regulations, including data protection requirements under GDPR. Any subpoena or deposition request shall be handled in accordance with jurisdictional rules of civil procedure.
+
+7. TERMINATION AND BREACH
+Either party may terminate this Agreement upon material breach, subject to a 30-day cure period. Upon termination, all confidentiality obligations and indemnification clauses shall survive.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first written above.
