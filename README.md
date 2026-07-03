@@ -154,3 +154,101 @@ To stop both servers, press `Ctrl+C` in the terminal running `run.py`.
 - The Retrieval Preview panel (search icon in the chat header) is for inspection only — the active chat answer always uses whichever mode is selected in the chat header at send time.
 - Knowledge graphs are cached per document; click **Regenerate** to force a fresh extraction (results can vary slightly between regenerations since extraction uses an LLM).
 - Summaries are generated automatically on upload and cached in the database; they're only regenerated if missing.
+
+---
+
+# 🎥 Demo
+
+<p align="center">
+  <img src="assets/demo.gif" alt="Project Demo" width="900"/>
+</p>
+
+---
+
+# 📸 Screenshots
+
+## 🔐 Login Page
+
+<p align="center">
+  <img src="assets/screenshots/login.png" alt="Login Page" width="900"/>
+</p>
+
+---
+
+## 🆕 New Chat
+
+<p align="center">
+  <img src="assets/screenshots/new_chat.png" alt="New Chat" width="900"/>
+</p>
+
+---
+
+## 💬 RAG Chat Interface
+
+<p align="center">
+  <img src="assets/screenshots/rag_chat.png" alt="RAG Chat" width="900"/>
+</p>
+
+---
+
+## 🔍 Smart Search
+
+<p align="center">
+  <img src="assets/screenshots/search_bar.png" alt="Search Bar" width="900"/>
+</p>
+
+---
+
+## 📂 Document Vault
+
+<p align="center">
+  <img src="assets/screenshots/document_vault-1.png" alt="Document Vault" width="900"/>
+</p>
+
+---
+
+## 📄 Supported Document Types
+
+<p align="center">
+  <img src="assets/screenshots/types_of_doc.png" alt="Supported Documents" width="900"/>
+</p>
+
+---
+
+## 🎥 YouTube Analysis
+
+<p align="center">
+  <img src="assets/screenshots/youtube_vid.png" alt="YouTube Analysis" width="900"/>
+</p>
+
+---
+
+## 📊 Analytics Dashboard
+
+<p align="center">
+  <img src="assets/screenshots/analytics.png" alt="Analytics Dashboard" width="900"/>
+</p>
+
+---
+
+## 👤 Account Information
+
+<p align="center">
+  <img src="assets/screenshots/acc_info.png" alt="Account Information" width="900"/>
+</p>
+
+---
+
+## 📈 Knowledge Graph Visualization
+
+<p align="center">
+  <img src="assets/screenshots/knowledge_graph.gif" alt="Knowledge Graph" width="900"/>
+</p>
+
+---
+
+## 📝 AI Summary Generation
+
+<p align="center">
+  <img src="assets/screenshots/summary.gif" alt="Summary Generation" width="900"/>
+</p>
