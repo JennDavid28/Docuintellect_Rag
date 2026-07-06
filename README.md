@@ -202,7 +202,7 @@ To stop both servers, press `Ctrl+C` in the terminal running `run.py`.
 ## 📂 Document Vault
 
 <p align="center">
-  <img src="assets/screenshots/document_vault-1.png" alt="Document Vault" width="900"/>
+  <img src="assets/screenshots/document_vault.png" alt="Document Vault" width="900"/>
 </p>
 
 ---
